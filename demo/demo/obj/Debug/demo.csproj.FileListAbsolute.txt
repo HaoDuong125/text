@@ -1,0 +1,9 @@
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\bin\Debug\demo.exe.config
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\bin\Debug\demo.exe
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\bin\Debug\demo.pdb
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.exe
+C:\Users\Hao_Duong\Documents\Visual Studio 2013\Projects\demo\demo\obj\Debug\demo.pdb
